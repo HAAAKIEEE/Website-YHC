@@ -1,0 +1,19 @@
+.bidang1 {
+    height: 100vh;
+    margin-top: 4.4rem;
+    background-color: #2D2E4C;
+    padding: 0.4rem 9%;
+color: #fff;
+}
+
+.bidang1 h1 {
+    /* font-size: 40px; */
+    margin-top: 3rem;
+}
+
+.bidang1 p {
+    /* font-weight: 600; */
+    /* font-size: 20px; */
+    color: var(--bg);
+    margin-top: 1.2rem;
+}
